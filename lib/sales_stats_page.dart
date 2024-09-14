@@ -95,7 +95,7 @@ class _SalesStatsPageState extends State<SalesStatsPage> {
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
                         Text(
-                          'Toplam Satış Sayısı',
+                          'Toplam Müşteri Sayısı',
                           style: TextStyle(
                               fontSize: 24, fontWeight: FontWeight.bold),
                         ),
